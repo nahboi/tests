@@ -1,2 +1,3 @@
+![logo2](https://user-images.githubusercontent.com/55785917/195940719-7b7c4bfd-b8d2-4286-a8d6-318d86b7f45e.png)
+
 # WTF ENGINE (WIP)
-![logo](https://user-images.githubusercontent.com/55785917/195939850-dd012124-7a8d-4e79-a46b-1bdcea96008c.png)
